@@ -1,3 +1,3 @@
 ## Hi there 🚶🏽
 
-![Cascão](image.gif)
+![Cascão](https://raw.githubusercontent.com/andrelmlins/andrelmlins/master/image.gif)
