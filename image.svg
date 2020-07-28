@@ -9,7 +9,7 @@
 
             img {
                 width: 300px;
-                animation: example 10s linear 0s infinite;
+                animation: example 8s linear 0s infinite;
             }
 
             @keyframes example {
