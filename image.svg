@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" width="800px" height="400px" data-reactroot="">
+  <foreignObject width="800px" height="400px">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+        <style>
+            #block {
+                width: 500px;
+                overflow: hidden;
+            }
+
+            img {
+                width: 300px;
+                animation: example 10s linear 0s infinite;
+            }
+
+            @keyframes example {
+                from   { margin-left: -300px; }
+                to { margin-left: 500px; }
+            }
+        </style>
+        <div id="block">
+            <img src="https://raw.githubusercontent.com/andrelmlins/andrelmlins/master/image.gif?sanitize=true" />
+        </div>
+    </div>
+  </foreignObject>
+</svg>
