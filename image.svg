@@ -24,7 +24,7 @@
                 width: 300px;
                 margin-left: -300px;
                 opacity: 1;
-                animation: animation 16s;
+                animation: animation 12s;
                 animation-iteration-count: infinite;
                 animation-timing-function: linear;
             }
@@ -34,7 +34,7 @@
                 margin-right: -300px;
                 opacity: 0;
                 transform: scaleX(-1);
-                animation: animation-reverse 16s;
+                animation: animation-reverse 12s;
                 animation-iteration-count: infinite;
                 animation-timing-function: linear;
             }
