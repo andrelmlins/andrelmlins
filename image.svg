@@ -18,6 +18,7 @@
 
             #block img {
                 width: 300px;
+                min-width: 300px;
                 position: absolute;
                 top: 0;
                 left: -300px;
@@ -29,6 +30,7 @@
 
             #block1 img {
                 width: 300px;
+                min-width: 300px;
                 position: absolute;
                 top: 0;
                 right: 0px;
